@@ -1,6 +1,6 @@
 export default {
-    baseUrl: 'http://localhost:8080/springboot2440b7ti/',
-	name: '/springboot2440b7ti',
+    baseUrl: 'http://localhost:8080/MyShop/',
+	name: '/MyShop',
     indexNav: [
         {
             name: '商品信息',

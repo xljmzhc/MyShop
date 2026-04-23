@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.31, for Linux (x86_64)
 --
--- Host: localhost    Database: springboot2440b7ti
+-- Host: localhost    Database: MyShop
 -- ------------------------------------------------------
 -- Server version	5.7.31
 
@@ -16,14 +16,14 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `springboot2440b7ti`
+-- Current Database: `MyShop`
 --
 
-/*!40000 DROP DATABASE IF EXISTS `springboot2440b7ti`*/;
+/*!40000 DROP DATABASE IF EXISTS `MyShop`*/;
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `springboot2440b7ti` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `MyShop` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
 
-USE `springboot2440b7ti`;
+USE `MyShop`;
 
 --
 -- Table structure for table `address`
